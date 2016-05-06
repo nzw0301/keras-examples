@@ -12,3 +12,4 @@
   - ~RNN_binary_classification~
   - ~encoder-decoder~
   - ~NNLM~
+  - ~CBoW~
