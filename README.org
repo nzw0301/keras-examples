@@ -1,0 +1,14 @@
+* [[https://github.com/fchollet/keras][keras]] exsample codes
+
+** contents
+
+- Image
+  - ~MLP_MNIST~
+  - ~CNN_MNIST~
+  - ~CNN_CIFAR10~
+  - ~autoencoder~
+
+- Text
+  - ~RNN_binary_classification~
+  - ~encoder-decoder~
+  - ~NNLM~
