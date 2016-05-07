@@ -1,4 +1,4 @@
-* [[https://github.com/fchollet/keras][keras]] exsample codes
+* [[https://github.com/fchollet/keras][keras]] example codes
 
 ** contents
 
