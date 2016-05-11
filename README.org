@@ -11,7 +11,7 @@ I recommend using anaconda3
   - matplotllib
   - daft (only ~tutorial~ )
   - gensim (only save and load word embeddings)
- 
+
 - software
   - graphviz
 
@@ -23,6 +23,7 @@ I recommend using anaconda3
   - ~CNN_MNIST~
   - ~CNN_CIFAR10~
   - ~autoencoder~
+  - ~residual CIFAR10~
 
 - Text
   - ~RNN_binary_classification~
@@ -33,4 +34,3 @@ I recommend using anaconda3
 
 - Tutorial
   - ~keras_tutorial~ : for Machine Learning seminar at Tsukuba (7MB notebook)
-
