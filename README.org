@@ -1,5 +1,21 @@
 * [[https://github.com/fchollet/keras][keras]] example codes
 
+** dependencies
+
+I recommend using anaconda3
+
+- python libraries
+  - keras
+  - theano
+  - pydot_ng
+  - matplotllib
+  - daft (only ~tutorial~ )
+  - gensim (only save and load word embeddings)
+ 
+- software
+  - graphviz
+
+
 ** contents
 
 - Image
@@ -16,4 +32,5 @@
   - ~Skip-Gram~ : not hieraltical softmax and negative sampling
 
 - Tutorial
-  - ~keras_tutorial~ : for Machine Learning seminar at Tsukuba
+  - ~keras_tutorial~ : for Machine Learning seminar at Tsukuba (7MB notebook)
+
