@@ -31,6 +31,7 @@ I recommend using anaconda3
   - ~NNLM~
   - ~CBoW~ : not hieraltical softmax and negative sampling
   - ~Skip-Gram~ : not hieraltical softmax and negative sampling
+  - ~Skip-Gram&NG~ : using negative sampling
 
 - Tutorial
   - ~keras_tutorial~ : for Machine Learning seminar at Tsukuba (7MB notebook)
