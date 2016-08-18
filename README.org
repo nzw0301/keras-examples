@@ -5,7 +5,7 @@
 I recommend using anaconda3
 
 - python libraries
-  - keras
+  - keras (>1.0)
   - theano
   - pydot_ng
   - matplotllib
@@ -33,5 +33,7 @@ I recommend using anaconda3
   - ~Skip-Gram~ : not hieraltical softmax and negative sampling
   - ~Skip-Gram&NG~ : using negative sampling
   - ~fast text~ : not hieraltical softmax and bi-gram features
+  - ~SCRNLM~ : Structurally Constrained Recurrent Nets Language Model
+
 - Tutorial
-  - ~keras_tutorial~ : for Machine Learning seminar at Tsukuba (7MB notebook)
+  - ~keras_tutorial~ : for Machine Learning seminar at Tsukuba (note: 7MB notebook and ja only)
