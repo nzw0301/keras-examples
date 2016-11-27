@@ -23,6 +23,7 @@ I recommend using anaconda3
   - ~CNN_MNIST~
   - ~CNN_CIFAR10~
   - ~autoencoder~
+  - ~variational auto encoder for CIFAR10~
   - ~residual CIFAR10~
 
 - Text
