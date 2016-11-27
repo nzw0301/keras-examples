@@ -24,6 +24,7 @@ I recommend using anaconda3
   - ~CNN_CIFAR10~
   - ~autoencoder~
   - ~variational auto encoder for CIFAR10~
+  - ~Gumbel-softmax with variational auto encoder for MNIST~
   - ~residual CIFAR10~
 
 - Text
