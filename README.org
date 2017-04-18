@@ -5,8 +5,8 @@
 I recommend using anaconda3
 
 - python libraries
-  - keras (>1.0)
-  - theano
+  - keras (<2.0) (NOTE: I cannot guarantee to run for keras 2)
+  - theano or tensorflow
   - pydot_ng
   - matplotllib
   - daft (only ~tutorial~ )
@@ -18,10 +18,11 @@ I recommend using anaconda3
 
 ** contents
 
+*** keras 1
+
 - Image
   - ~MLP_MNIST~
   - ~CNN_MNIST~
-  - ~CNN_CIFAR10~
   - ~autoencoder~
   - ~variational auto encoder for CIFAR10~
   - ~Gumbel-softmax with variational auto encoder for MNIST~
@@ -31,7 +32,7 @@ I recommend using anaconda3
   - ~RNN_binary_classification~
   - ~encoder-decoder~
   - ~NNLM~
-  - ~CBoW~ : not hieraltical softmax and negative sampling
+
   - ~Skip-Gram~ : not hieraltical softmax and negative sampling
   - ~Skip-Gram&NG~ : using negative sampling
   - ~fast text~ : not hieraltical softmax and bi-gram features
@@ -39,3 +40,9 @@ I recommend using anaconda3
 
 - Tutorial
   - ~keras_tutorial~ : for Machine Learning seminar at Tsukuba (note: 7MB notebook and ja only)
+
+
+*** keras 2
+
+- ~CBoW~ : not hieraltical softmax and negative sampling
+- ~CNN_CIFAR10~	
