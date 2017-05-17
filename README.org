@@ -1,12 +1,12 @@
-* [[https://github.com/fchollet/keras][keras]] example codes
+* [[https://github.com/fchollet/keras][Keras]] example codes
 
-** dependencies
+** Dependencies
 
 I recommend using anaconda3
 
 - python libraries
-  - keras (<2.0) (NOTE: I cannot guarantee to run for keras 2)
-  - theano or tensorflow
+  - Keras
+  - tensorflow or theano
   - pydot_ng
   - matplotllib
   - daft (only ~tutorial~ )
@@ -16,33 +16,35 @@ I recommend using anaconda3
   - graphviz
 
 
-** contents
+** Contents
 
-*** keras 1
+*** Keras 1
 
 - Image
-  - ~MLP_MNIST~
   - ~CNN_MNIST~
-  - ~autoencoder~
   - ~variational auto encoder for CIFAR10~
   - ~Gumbel-softmax with variational auto encoder for MNIST~
   - ~residual CIFAR10~
 
 - Text
-  - ~RNN_binary_classification~
   - ~encoder-decoder~
-  - ~NNLM~
-
   - ~Skip-Gram~ : not hieraltical softmax and negative sampling
   - ~Skip-Gram&NG~ : using negative sampling
-  - ~fast text~ : not hieraltical softmax and bi-gram features
   - ~SCRNLM~ : Structurally Constrained Recurrent Nets Language Model
 
 - Tutorial
   - ~keras_tutorial~ : for Machine Learning seminar at Tsukuba (note: 7MB notebook and ja only)
 
 
-*** keras 2
+*** Keras 2
+
+- ~autoencoder~
+- ~MLP_MNIST~
+- ~CNN_CIFAR10~
 
 - ~CBoW~ : not hieraltical softmax and negative sampling
-- ~CNN_CIFAR10~	
+- ~RNN_binary_classification~
+- ~NNLM~
+- ~fastText~ : not hieraltical softmax and bi-gram features
+
+- ~sklearn_MLP_MNIST~: sklearn API example for parameter search on MNIST classification
