@@ -29,7 +29,6 @@ I recommend using anaconda3
 - Text
   - ~encoder-decoder~
   - ~Skip-Gram~ : not hieraltical softmax and negative sampling
-  - ~Skip-Gram&NG~ : using negative sampling
   - ~SCRNLM~ : Structurally Constrained Recurrent Nets Language Model
 
 - Tutorial
@@ -46,5 +45,6 @@ I recommend using anaconda3
 - ~RNN_binary_classification~
 - ~NNLM~
 - ~fastText~ : not hieraltical softmax and bi-gram features
+- ~Skip-Gram&NG~ : using negative sampling
 
 - ~sklearn_MLP_MNIST~: sklearn API example for parameter search on MNIST classification
