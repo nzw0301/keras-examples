@@ -29,7 +29,6 @@ I recommend using anaconda3
 - Text
   - ~encoder-decoder~
   - ~Skip-Gram~ : not hieraltical softmax and negative sampling
-  - ~SCRNLM~ : Structurally Constrained Recurrent Nets Language Model
 
 - Tutorial
   - ~keras_tutorial~ : for Machine Learning seminar at Tsukuba (note: 7MB notebook and ja only)
@@ -44,6 +43,7 @@ I recommend using anaconda3
 - ~CBoW~ : not hieraltical softmax and negative sampling
 - ~RNN_binary_classification~
 - ~NNLM~
+- ~SCRNLM~ : Structurally Constrained Recurrent Nets Language Model
 - ~fastText~ : not hieraltical softmax and bi-gram features
 - ~Skip-Gram&NG~ : using negative sampling
 
