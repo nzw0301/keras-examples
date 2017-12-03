@@ -40,11 +40,11 @@ I recommend using anaconda3
 - ~MLP_MNIST~
 - ~CNN_CIFAR10~
 
-- ~CBoW~ : not hieraltical softmax and negative sampling
+- ~CBoW~ : Normal softmax
 - ~RNN_binary_classification~
 - ~NNLM~
 - ~SCRNLM~ : Structurally Constrained Recurrent Nets Language Model
-- ~fastText~ : not hieraltical softmax and bi-gram features
-- ~Skip-Gram&NG~ : using negative sampling
-
-- ~sklearn_MLP_MNIST~: sklearn API example for parameter search on MNIST classification
+- ~fastText~ : Bi-gram features and softmax
+- ~Skip-Gram&NG~ : Skip-gram with negative sampling
+- ~prodLDA~ : Product of experts model's LDA based on VAE
+- ~sklearn_MLP_MNIST~: Sklearn API example for parameter search on MNIST classification
